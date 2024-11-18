@@ -1,4 +1,6 @@
 # AssignmentThree
+Binary search trees remain balanced through mechanisms like height-balancing, ensuring that the height difference between any node's left and right subtrees is minimal. This approach maintains the tree's structure, providing efficient performance for operations like search, insertion, and deletion.
+
 
 Outputs from running the code:
 
