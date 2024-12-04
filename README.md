@@ -1,5 +1,8 @@
 # AssignmentThree
-Binary search trees remain balanced through mechanisms like height-balancing, ensuring that the height difference between any node's left and right subtrees is minimal. This approach maintains the tree's structure, providing efficient performance for operations like search, insertion, and deletion.
+Binary Search Trees (BST) remain balanced through mechanisms like height-balancing, ensuring that the height difference between any node's left and right subtrees is minimal. This approach maintains the tree's structure, efficiently performing search, insertion, and deletion operations.
+
+In a BST, the time for each operation (search, insertion, and deletion) is considered to be O(log(n)) where "n" represents the number of nodes in the tree. The time required grows logarithmically with the number of nodes (n) in the tree. 
+
 
 
 Outputs from running the code:
